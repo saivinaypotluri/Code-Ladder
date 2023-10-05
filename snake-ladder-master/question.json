@@ -1,0 +1,402 @@
+[
+{
+    "question" : "What is operating system?",
+    "a": "Collection of programs that manages hardware resources",
+    "b": "Link to interface the hardware and application program",
+    "c": "System service provider to the application program",
+    "d": "All of the mentioned",
+    "answer": "d"
+},
+{
+    "question" : "Which of the following is the full form of DDL?",
+    "a": "Data Definition Language",
+    "b": "Data Derivation Language",
+    "c": "Dynamic Data Language",
+    "d": "Data Detailing Language",
+    "answer": "a"
+},
+{
+    "question" : "Which one of the following is not true?",
+    "a": "Kernel is the program that constitues the central core of the operating system",
+    "b": "Kernel is the first part of operating system to load into memory during booting",
+    "c": "Kernel is made of various modules which can not be loaded in running operating system",
+    "d": "Kernel remains in the memory during the entire computer session",
+    "answer": "c"
+},
+{
+    "question" : "Which one of the following error will be handle by the operating system?",
+    "a": "Power failure",
+    "b": "Lack of paper in printer",
+    "c": "Connection failure in the network",
+    "d": "All of the mentioned",
+    "answer": "d"
+},
+{
+    "question" : "Which normalization form is based on the transitive dependency?",
+    "a": "1NF",
+    "b": "2NF",
+    "c": "3NF",
+    "d": "BCNF",
+    "answer": "c"
+},
+{
+    "question" : "Which of the following is known as minimal super key?",
+    "a": "Primary Key",
+    "b": "Candidate Key",
+    "c": "Foreign Key",
+    "d": "None of the mentioned",
+    "answer": "b"
+},
+{
+    "question" : "What is Cloud Computing?",
+    "a": "Cloud Computing means providing services like storage, servers, database, networking, etc",
+    "b": "Cloud Computing means storing data in a database",
+    "c": "Cloud Computing is a tool used to create an application",
+    "d": "None of the mentioned",
+    "answer": "a"
+},
+{
+    "question" : "Which of the following is an example of the cloud?",
+    "a": "Amazon Web Services",
+    "b": "Dropbox",
+    "c": "Cisco WebX",
+    "d": "All of mentioned",
+    "answer": "d"
+},
+{
+    "question" : "Which one of the following is NOT a real time operating system?",
+    "a": "VxWorks",
+    "b": "Windows CE",
+    "c": "RTLinux",
+    "d": "Palm OS",
+    "answer": "d"
+},
+{
+    "question" : "Which of the following is a correct identifier in C++?",
+    "a": "VAR_1234",
+    "b": "$var_name",
+    "c": "7VARNAME",
+    "d": "7var_name",
+    "answer": "a"
+},
+{
+    "question" : " What is virtual inheritance in C++?",
+    "a": "C++ technique to enhance multiple inheritance",
+    "b": "C++ technique to ensure that a private member of the base class can be accessed somehow",
+    "c": "C++ technique to avoid multiple inheritances of classes",
+    "d": "C++ technique to avoid multiple copies of the base class into children/derived class",
+    "answer": "d"
+},
+{
+    "question" : "Which of the following is correct about this pointer in C++?",
+    "a": "this pointer is passed as a hidden argument in all static variables of a class",
+    "b": "this pointer is passed as a hidden argument in all the functions of a class",
+    "c": "this pointer is passed as a hidden argument in all non-static functions of a class",
+    "d": "this pointer is passed as a hidden argument in all static functions of a class",
+    "answer": "c"
+},
+{
+    "question" : "Which is the first program run on a computer when the computer boots up?",
+    "a": "Operating system",
+    "b": "Application software",
+    "c": "System software",
+    "d": "All of the mentioned",
+    "answer": "a"
+},
+{
+    "question" : "Which of the following correctly declares an array in C++?",
+    "a": "array{10};",
+    "b": "int array;",
+    "c": "int array[10]",
+    "d": "int array[10];",
+    "answer": "d"
+},
+{
+    "question" : "Which of the following is used to terminate the function declaration in C++?",
+    "a": "]",
+    "b": ";",
+    "c": ")",
+    "d": "}",
+    "answer": "b"
+},
+{
+    "question" : "What should be the extension to execute files?",
+    "a": "exe",
+    "b": "bat",
+    "c": "com",
+    "d": "All of the mentioned",
+    "answer": "d"
+},
+{
+    "question" : "Which keyword is used to define the macros in c++?",
+    "a": "define",
+    "b": "macro",
+    "c": "#define",
+    "d": "#macro",
+    "answer": "c"
+},
+{
+    "question" : "Which is NOT the function of the Operating System?",
+    "a": "Memory management",
+    "b": "Disk management",
+    "c": "Application management",
+    "d": "Virus protection",
+    "answer": "d"
+},
+{
+    "question" : "What is meant by a polymorphism in C++?",
+    "a": "class having only single form",
+    "b": "class having two forms",
+    "c": "class having three forms",
+    "d": "class having many forms",
+    "answer": "d"
+},
+{
+    "question" : "The chunks of a memory are known as:",
+    "a": "Sector",
+    "b": "Offset",
+    "c": "Page",
+    "d": "Frame",
+    "answer": "d"
+},
+{
+    "question" : "What is Software Engineering?",
+    "a": "Designing a software",
+    "b": "Testing a software",
+    "c": "Application of engineering principles to the design a software",
+    "d": "None of the mentioned",
+    "answer": "c"
+},
+{
+    "question" : "Which of the follow are System Programming Language?",
+    "a": "C",
+    "b": "PL/360",
+    "c": "Pascal",
+    "d": "All of mentioned",
+    "answer": "d"
+},
+{
+    "question" : "Which of the following resources must be protected by the Operating System?",
+    "a": "I/O",
+    "b": "Memory",
+    "c": "CPU",
+    "d": "All of mentioned",
+    "answer": "d"
+},
+{
+    "question" : "First-in-First-Out (FIFO) scheduling is:",
+    "a": "Non-preemptive scheduling",
+    "b": "Preemptive scheduling",
+    "c": "Fair share scheduling",
+    "d": "Deadline scheduling",
+    "answer": "a"
+},
+{
+    "question" : "What does SDLC stands for?",
+    "a": "System Design Life Cycle",
+    "b": "Software Design Life Cycle",
+    "c": "Software Development Life Cycle",
+    "d": "System Development Life cycle",
+    "answer": "c"
+},
+{
+    "question" : "What is the full form of the “COCOMO” model?",
+    "a": "Cost Constructive Estimation Model",
+    "b": "Constructive Cost Estimating Model",
+    "c": "Constructive Cost Estimation Model",
+    "d": "Constructive Case Estimation Model",
+    "answer": "c"
+},
+{
+    "question" : "Which of the following document contains the user system requirements?",
+    "a": "SRD",
+    "b": "SRS",
+    "c": "SDD",
+    "d": "All of the mentioned",
+    "answer": "b"
+},
+{
+    "question" : "A process is __________ ",
+    "a": "Program in main memory",
+    "b": "Program in cache memory",
+    "c": "Program in secondary storage",
+    "d": "Program in execution",
+    "answer": "d"
+},
+{
+    "question" : "If the displayed system time and date is wrong, use can reset it using:",
+    "a": "Write",
+    "b": "Calender",
+    "c": "Write file",
+    "d": "Control panel",
+    "answer": "d"
+},
+{
+    "question" : "Which is NOT an application software?",
+    "a": "Windows NT",
+    "b": "Page Maker",
+    "c": "WinWord XP",
+    "d": "Photoshop",
+    "answer": "a"
+},
+{
+    "question" : "What program runs first afer computer is booted and loaded GUI?",
+    "a": "Desktop Manager",
+    "b": "File Manager",
+    "c": "Windows Explorer",
+    "d": "Authentication",
+    "answer": "d"
+},
+{
+    "question" : "Linux is a(n) __________ operating system.",
+    "a": "Open source",
+    "b": "Microsoft",
+    "c": "Windows",
+    "d": "Mac",
+    "answer": "a"
+},
+{
+    "question" : "What is CSS?",
+    "a": "CSS is a style sheet language",
+    "b": "CSS is designed to separate the presentation and content, including layout, colors, and fonts",
+    "c": "CSS is the language used to style the HTML documents",
+    "d": "All of mentioned",
+    "answer": "d"
+},
+{
+    "question" : "MacOS is based on the __________ operating system",
+    "a": "Windows",
+    "b": "Linux",
+    "c": "Unix",
+    "d": "CMOS",
+    "answer": "c"
+},
+{
+    "question" : "The Basic Input Output System (BIOS) resides in:",
+    "a": "RAM",
+    "b": "ROM",
+    "c": "CPU",
+    "d": "Memory cache",
+    "answer": "b"
+},
+{
+    "question" : "Recently deleted files are stored in:",
+    "a": "Desktop",
+    "b": "Taskbar",
+    "c": "Recycle bin",
+    "d": "My computer",
+    "answer": "c"
+},
+{
+    "question" : " Which of the following CSS selectors are used to specify a group of elements?",
+    "a": "class",
+    "b": "tag",
+    "c": "id",
+    "d": "Both (a) and (b)",
+    "answer": "a"
+},
+{
+    "question" : "Which of the following type of HTML tag is used to define an internal style sheet?",
+    "a": "<class>",
+    "b": "<style>",
+    "c": "<script>",
+    "d": "<link>",
+    "answer": "b"
+},
+{
+    "question" : "HTML stands for __________",
+    "a": "HighText Markup Language",
+    "b": "HyperText Marking Language",
+    "c": "HyperText Machine Language",
+    "d": "HyperText Markup Language",
+    "answer": "d"
+},
+{
+    "question" : "Which of the following scheduling algorithms is non-preemptive?",
+    "a": "Round robin",
+    "b": "FIFO",
+    "c": "Multilevel queue scheduling",
+    "d": "Multilevel queue scheduling with feedback",
+    "answer": "b"
+},
+{
+    "question" : "What is the correct syntax of doctype in HTML5?",
+    "a": "<!doctype html>",
+    "b": "</doctype html>",
+    "c": "<doctype html>",
+    "d": "</doctype html!>",
+    "answer": "a"
+},
+{
+    "question" : "Quad core processors are the processors having:",
+    "a": "1 processor",
+    "b": "2 processors",
+    "c": "3 processors",
+    "d": "4 processors",
+    "answer": "d"
+},
+{
+    "question" : "DMA is the part of computer system which is the abbreviation of?",
+    "a": "Dynamic memory address",
+    "b": "Direct memory access",
+    "c": "Dynamic memory access",
+    "d": "Direct memory address",
+    "answer": "b"
+},
+{
+    "question" : "Which tag is used to create a numbered list in HTML?",
+    "a": "<ul>",
+    "b": "<ll>",
+    "c": "<li>",
+    "d": "<ol>",
+    "answer": "d"
+},
+{
+    "question" : "One word memory storage is the collection of?",
+    "a": "2 bytes",
+    "b": "4 bytes",
+    "c": "7 bytes",
+    "d": "8 bytes",
+    "answer": "b"
+},
+{
+    "question" : "Secondary memory of the computer system is also called:",
+    "a": "Non-volatile",
+    "b": "Volatile",
+    "c": "Reserved",
+    "d": "Small",
+    "answer": "a"
+},
+{
+    "question" : "Main memory of the computer system is also called?",
+    "a": "Non-volatile",
+    "b": "Volatile",
+    "c": "Reserved",
+    "d": "Large",
+    "answer": "b"
+},
+{
+    "question" : "Example of an open source operating system is:",
+    "a": "Unix",
+    "b": "Linux",
+    "c": "Windows",
+    "d": "Both (a) and (b)",
+    "answer": "d"
+},
+{
+    "question" : "Which tag is used to underline the text in HTML?",
+    "a": "<ul>",
+    "b": "<p>",
+    "c": "<l>",
+    "d": "<u>",
+    "answer": "d"
+},
+{
+    "question" : "Dual mode of Operating System has:",
+    "a": "1 mode",
+    "b": "2 modes",
+    "c": "3 modes ",
+    "d": "4 modes ",
+    "answer": "b"
+}
+]
